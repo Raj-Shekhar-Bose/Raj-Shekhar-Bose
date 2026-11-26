@@ -1,6 +1,6 @@
 # Raj Shekhar Bose
 
-I'm an environmental engineer and guest researcher at the Leibniz Institute for Agricultural Engineering and Bioeconomy (ATB Potsdam). I combine reactor experiments, microbial community analysis, and predictive modelling to study resource recovery from agricultural residues and wastewater.
+I'm an environmental engineer and researcher at the Leibniz Institute for Agricultural Engineering and Bioeconomy (ATB Potsdam). I combine reactor experiments, microbial community analysis, and predictive modelling to study resource recovery from agricultural residues and wastewater.
 
 ## Research and methods
 
